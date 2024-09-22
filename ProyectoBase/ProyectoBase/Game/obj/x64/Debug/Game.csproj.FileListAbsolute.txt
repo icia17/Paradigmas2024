@@ -1,0 +1,11 @@
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Engine.dll
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\ship.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Game.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Program.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Game.exe.config
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\x64\Debug\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\x64\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\x64\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\x64\Debug\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\x64\Debug\Game.pdb

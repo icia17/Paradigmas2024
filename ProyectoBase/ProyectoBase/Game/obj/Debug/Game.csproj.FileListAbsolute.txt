@@ -1,0 +1,87 @@
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\bin\Debug\Engine.dll
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\bin\Debug\ship.png
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\bin\Debug\Game.exe
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\bin\Debug\Game.pdb
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\obj\Debug\Game.exe
+P:\SPARDOX\ACADEMICO\UADE Materias\IOO\ProyectoBase\Game\obj\Debug\Game.pdb
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\ship.png
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.exe
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.pdb
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.exe
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.pdb
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Engine.dll
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.cs
+C:\Users\augus\Downloads\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Program.cs
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Engine.dll
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\ship.png
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.cs
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Program.cs
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.exe
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\bin\Debug\Game.pdb
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.exe
+D:\Paradigmas de Programación\Paradigmas de Programación\ProyectoBase\Game\obj\Debug\Game.pdb
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Engine.dll
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\ship.png
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.cs
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Program.cs
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe.config
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.pdb
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.exe
+C:\Users\nacho\Downloads\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.pdb
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Engine.dll
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\ship.png
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.cs
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Program.cs
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe.config
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.pdb
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.exe
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Engine.dll
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Program.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe.config
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.Resource1.resources
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\guide.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\bg.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude1.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude10.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude11.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude12.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude2.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude3.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude4.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude5.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude6.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude7.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude8.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dude9.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside1.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside10.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside11.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside12.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside2.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside3.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside4.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside5.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside6.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside7.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside8.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Debug\Resources\dudeside9.png

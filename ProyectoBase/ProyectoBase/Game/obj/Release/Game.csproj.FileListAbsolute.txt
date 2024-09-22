@@ -1,0 +1,22 @@
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Engine.dll
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\ship.png
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Game.cs
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Program.cs
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Game.exe.config
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Game.exe
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\bin\Release\Game.pdb
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Release\Game.csproj.AssemblyReference.cache
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Release\Game.exe
+Y:\Visual Studio 2022\ProyectoBase\ProyectoBase\Game\obj\Release\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Engine.dll
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\ship.png
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Game.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Program.cs
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Game.exe.config
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\bin\Release\Game.pdb
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Release\Game.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Release\Game.exe
+C:\Users\nacho\source\repos\ProyectoBase\ProyectoBase\Game\obj\Release\Game.pdb
