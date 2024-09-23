@@ -7,32 +7,44 @@ using System.Threading.Tasks;
 
 namespace Game
 {
-    public class Player
+    public class Player : GameObject
     {
-        public int frame = 1;
+        private static Player _instance;
+        public static Player Instance 
+        { 
+            get 
+            {
+                if (_instance == null)
+                {
+                    _instance = new Player();
+                }
 
-        Animation idle = new Animation(12);
+                return _instance;
+            }
+        }
 
-        string verticalTexturePath => "Resources/dude" + frame + ".png";
-        string horizontalTexturePath => "Resources/dudeside" + frame + ".png";
+        private Animation idle = new Animation(12);
 
-        string arrowTexturePath = "Resources/guide.png";
-        float arrowAngle = -90f;
-        float arrowVelocity = 0f;
-        float baseArrowVelocity = 150f;
+        private int frame = 1;
 
-        BoxCollider2D box;
-        float baseVelocity;
-        Vector2 velocity;
+        private string VerticalTexturePath => "Resources/dude" + frame + ".png";
+        private string HorizontalTexturePath => "Resources/dudeside" + frame + ".png";
 
-        bool moving = false;
-        bool flipped = false;
-        bool sideways = false;
+        private string arrowTexturePath = "Resources/guide.png";
+        private float arrowAngle = -90f;
+        private float arrowVelocity = 0f;
+        private float baseArrowVelocity = 150f;
 
-        public Player(BoxCollider2D box, float velocity)
+       
+        private float baseVelocity = 2500f;
+
+        private bool moving = false;
+        private bool flipped = false;
+        private bool sideways = false;
+
+        public Player()
         {
-            this.box = box;
-            baseVelocity = velocity;
+            boxCollider = new BoxCollider2D(new Vector2(960f, 828f), 32f, 32f);
         }
 
         public void Input()
@@ -47,16 +59,16 @@ namespace Game
             {
                 arrowVelocity = baseArrowVelocity;
 
-                if (Engine.GetKey(Keys.LSHIFT))
+                if (Engine.GetKey(Keys.S))
                 {
                     arrowVelocity = baseArrowVelocity * 2;
                 }
-            } 
+            }
             else if (Engine.GetKey(Keys.A))
             {
                 arrowVelocity = -baseArrowVelocity;
 
-                if (Engine.GetKey(Keys.LSHIFT))
+                if (Engine.GetKey(Keys.S))
                 {
                     arrowVelocity = -baseArrowVelocity * 2;
                 }
@@ -74,7 +86,7 @@ namespace Game
             }
         }
 
-        public void Update(float deltaTime)
+        public override void Update(float deltaTime)
         {
             // Update the angle of the arrows
             arrowAngle += arrowVelocity * deltaTime;
@@ -85,15 +97,15 @@ namespace Game
             // Update the movement of the player
             if (moving) 
             {
-                box.position.x += velocity.x * deltaTime;
-                box.position.y += velocity.y * deltaTime;
+                boxCollider.position.x += velocity.x * deltaTime;
+                boxCollider.position.y += velocity.y * deltaTime;
             }
 
             // Check for colissions
             Colissions();
         }
 
-        public void Draw()
+        public override void Draw()
         {
             float scale = 1.02f;
             float offset = 32f;
@@ -104,57 +116,76 @@ namespace Game
                 offset = -32f;
             }
 
-            Engine.Draw(arrowTexturePath, box.position.x, box.position.y, 1f, -1920f, arrowAngle + 90f, 0f, 0f);
-            Engine.Draw(PlayerTexture(), box.position.x, box.position.y, scale, scale, 0f, offset, offset);
+            Engine.Draw(arrowTexturePath, boxCollider.position.x, boxCollider.position.y, 1f, -1920f, arrowAngle + 90f, 0f, 0f);
+            Engine.Draw(PlayerTexture(), boxCollider.position.x, boxCollider.position.y, scale, scale, 0f, offset, offset);
         }
 
-        void Colissions()
+        public void ResetStats()
         {
-            if (box.CollideWithSquare(Environment.right))
+            boxCollider = new BoxCollider2D(new Vector2(960f, 828f), 32f, 32f);
+
+            idle = new Animation(12);
+
+            frame = 1;
+
+            arrowAngle = -90f;
+            arrowVelocity = 0f;
+            baseArrowVelocity = 150f;
+
+            baseVelocity = 2500f;
+
+            moving = false;
+            flipped = false;
+            sideways = false;
+        }
+
+        private void Colissions()
+        {
+            if (boxCollider.CollideWithSquare(Environment.right))
             {
                 moving = false;
                 sideways = true;
                 flipped = false;
-                box.position.x = Environment.RIGHT;
+                boxCollider.position.x = Environment.RIGHT;
                 arrowAngle = 180f;
             }
-            if (box.CollideWithSquare(Environment.left))
+            if (boxCollider.CollideWithSquare(Environment.left))
             {
                 moving = false;
                 sideways = true;
                 flipped = true;
-                box.position.x = Environment.LEFT;
+                boxCollider.position.x = Environment.LEFT;
                 arrowAngle = 0f;
             }
-            if (box.CollideWithSquare(Environment.top))
+            if (boxCollider.CollideWithSquare(Environment.top))
             {
                 moving = false;
                 sideways = false;
                 flipped = true;
-                box.position.y = Environment.TOP;
+                boxCollider.position.y = Environment.TOP;
                 arrowAngle = 90f;
             }
-            if (box.CollideWithSquare(Environment.bottom))
+            if (boxCollider.CollideWithSquare(Environment.bottom))
             {
                 moving = false;
                 sideways = false;
                 flipped = false;
-                box.position.y = Environment.BOTTOM;
+                boxCollider.position.y = Environment.BOTTOM;
                 arrowAngle = -90f;
             }
         }
 
-        string PlayerTexture()
+        private string PlayerTexture()
         {
             string texturePath;
 
             if (sideways)
             {
-                texturePath = horizontalTexturePath;
+                texturePath = HorizontalTexturePath;
             }
             else
             {
-                texturePath = verticalTexturePath;
+                texturePath = VerticalTexturePath;
             }
 
             return texturePath;

@@ -1,17 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Media;
 
 namespace Game
 {
     class Program
     {
-        static Player player = new Player(new BoxCollider2D(new Vector2(960f, 828f), 32f, 32f), 2500f);
+        static GameManager gameManager = GameManager.Instance;
+        static EnemyManager enemyManager = EnemyManager.Instance;
+        static MainMenu mainMenu = MainMenu.Instance;
+        static VictoryMenu victoryMenu = VictoryMenu.Instance;
+        static DefeatMenu defeatMenu = DefeatMenu.Instance;
+        static Timer timer = Timer.Instance;
+        static Player player = Player.Instance;
+        static AudioManager audioManager = AudioManager.Instance;
 
-        static float deltaTime => DeltaTime.UpdatedDeltaTime();
+        static float deltaTime;
 
         static void Main(string[] args)
         {
             Engine.Initialize();
+
+            AudioManager.Instance.PlayAudioLoop("Audio/sneaky.wav");
 
             while (true)
             {
@@ -29,19 +39,74 @@ namespace Game
 
         static void Input()
         {
-            player.Input();
+            switch (gameManager.CurrentGameState)
+            {
+                case GameManager.GameState.Playing:
+                    player.Input();
+                    break;
+
+                case GameManager.GameState.Menu:
+                    mainMenu.Input();
+                    break;
+
+                case GameManager.GameState.Defeat:
+                    defeatMenu.Input();
+                    break;
+
+                default:
+                    break;
+            }
         }
 
         static void Update()
         {
-            player.Update(deltaTime);
+            deltaTime = DeltaTime.UpdatedDeltaTime();
+
+            switch (gameManager.CurrentGameState)
+            {
+                case GameManager.GameState.Playing:
+                    player.Update(deltaTime);
+                    enemyManager.Update(deltaTime);
+                    timer.Update(deltaTime);
+                    break;
+
+                case GameManager.GameState.Menu:
+                    mainMenu.Update(deltaTime);
+                    break;
+
+                case GameManager.GameState.Defeat:
+                    defeatMenu.Update(deltaTime);
+                    break;
+
+                default:
+                    victoryMenu.Update(deltaTime);
+                    break;
+            }
         }
 
         static void Draw()
         {
-            player.Draw();
+            switch (gameManager.CurrentGameState)
+            {
+                case GameManager.GameState.Playing:
+                    player.Draw();
+                    Environment();
+                    enemyManager.DrawEnemies();
+                    timer.Draw();
+                    break;
 
-            Environment();
+                case GameManager.GameState.Menu:
+                    mainMenu.Draw();
+                    break;
+
+                case GameManager.GameState.Defeat:
+                    defeatMenu.Draw();
+                    break;
+
+                default:
+                    victoryMenu.Draw();
+                    break;
+            }
             
             Engine.Show();
         }

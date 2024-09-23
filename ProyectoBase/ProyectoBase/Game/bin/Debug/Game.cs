@@ -223,7 +223,7 @@ namespace Game
             }
         }
 
-        public static void Draw(string texture, float x = 0, float y = 0, float scaX = 1, float scaY = 1, float angle = 0, float offsetX = 0, float offsetY = 0)
+        public static void Draw(string texture, float x = 0, float y = 0, float scaX = 1, float scaY = 1, float angle = 0, float offsetX = 0, float offsetY = 0, float v = 0)
         {
             Draw(GetTexture(texture), x, y, scaX, scaY, angle, offsetX, offsetY);
         }
