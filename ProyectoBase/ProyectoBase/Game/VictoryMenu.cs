@@ -23,7 +23,7 @@ namespace Game
             }
         }
 
-        private string victoryMenuTexturePath => "Resources/victorymenu" + frame + ".png";
+        private string VictoryMenuTexturePath => "Resources/victorymenu" + frame + ".png";
 
         private float mainMenuCD = 7.5f;
 
@@ -43,7 +43,7 @@ namespace Game
 
         public override void Draw()
         {
-            Engine.Draw(victoryMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
+            Engine.Draw(VictoryMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
         }
     }
 }

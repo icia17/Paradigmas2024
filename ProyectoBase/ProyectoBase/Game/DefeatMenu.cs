@@ -22,7 +22,7 @@ namespace Game
             }
         }
 
-        private string defeatMenuTexturePath => "Resources/defeatmenu" + frame + ".png";
+        private string DefeatMenuTexturePath => "Resources/defeatmenu" + frame + ".png";
 
         public void Input()
         {
@@ -45,7 +45,7 @@ namespace Game
 
         public override void Draw()
         {
-            Engine.Draw(defeatMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
+            Engine.Draw(DefeatMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
         }
     }
 }

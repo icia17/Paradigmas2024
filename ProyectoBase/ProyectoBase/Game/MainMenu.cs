@@ -22,7 +22,7 @@ namespace Game
             }
         }
 
-        private string mainMenuTexturePath => "Resources/mainmenu" + frame + ".png";
+        private string MainMenuTexturePath => "Resources/mainmenu" + frame + ".png";
 
         public void Input()
         {
@@ -39,7 +39,7 @@ namespace Game
 
         public override void Draw()
         {
-            Engine.Draw(mainMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
+            Engine.Draw(MainMenuTexturePath, 0f, 0f, 1f, 1f, 0f, 0f, 0f);
         }
     }
 }

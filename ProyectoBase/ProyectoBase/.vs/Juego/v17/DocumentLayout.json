@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\victorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\deltatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\deltatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|c:\\users\\nacho\\source\\repos\\proyectobase\\proyectobase\\game\\victorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\victorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\defeatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\defeatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|c:\\users\\nacho\\source\\repos\\proyectobase\\proyectobase\\game\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,14 +51,6 @@
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\deltatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\deltatime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\defeatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|solutionrelative:game\\defeatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B96137A-5E6A-434B-BBF0-8B3C9342750C}|Game\\Game.csproj|C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\game\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "EnemyManager.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\EnemyManager.cs",
               "RelativeDocumentMoniker": "Game\\EnemyManager.cs",
@@ -106,12 +106,11 @@
               "RelativeToolTip": "Game\\EnemyManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAF4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:12:54.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T20:12:54.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "GameObject.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\GameObject.cs",
               "RelativeDocumentMoniker": "Game\\GameObject.cs",
@@ -119,12 +118,11 @@
               "RelativeToolTip": "Game\\GameObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:11:33.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T20:11:33.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Saw.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Saw.cs",
               "RelativeDocumentMoniker": "Game\\Saw.cs",
@@ -132,12 +130,11 @@
               "RelativeToolTip": "Game\\Saw.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:23:30.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T18:23:30.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Enemy.cs",
               "RelativeDocumentMoniker": "Game\\Enemy.cs",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "Game\\Enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:23:23.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T18:23:23.558Z"
             },
             {
               "$type": "Document",
@@ -158,12 +154,11 @@
               "RelativeToolTip": "Game\\Bullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAEwEwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:23:17.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T18:23:17.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Spikes.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Spikes.cs",
               "RelativeDocumentMoniker": "Game\\Spikes.cs",
@@ -171,38 +166,37 @@
               "RelativeToolTip": "Game\\Spikes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:23:03.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T18:23:03.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Menu.cs",
               "RelativeDocumentMoniker": "Game\\Menu.cs",
               "ToolTip": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Menu.cs",
               "RelativeToolTip": "Game\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:18:13.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\MainMenu.cs",
               "RelativeDocumentMoniker": "Game\\MainMenu.cs",
               "ToolTip": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\MainMenu.cs",
               "RelativeToolTip": "Game\\MainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:18:04.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Environment.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Environment.cs",
               "RelativeDocumentMoniker": "Game\\Environment.cs",
@@ -215,33 +209,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
               "Title": "DefeatMenu.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\DefeatMenu.cs",
               "RelativeDocumentMoniker": "Game\\DefeatMenu.cs",
               "ToolTip": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\DefeatMenu.cs",
               "RelativeToolTip": "Game\\DefeatMenu.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwC0AAAAXAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:08:29.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "VictoryMenu.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\VictoryMenu.cs",
               "RelativeDocumentMoniker": "Game\\VictoryMenu.cs",
               "ToolTip": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\VictoryMenu.cs",
               "RelativeToolTip": "Game\\VictoryMenu.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAYAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:03:16.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Timer.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Timer.cs",
               "RelativeDocumentMoniker": "Game\\Timer.cs",
@@ -249,12 +243,11 @@
               "RelativeToolTip": "Game\\Timer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T18:02:36.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T18:02:36.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\GameManager.cs",
               "RelativeDocumentMoniker": "Game\\GameManager.cs",
@@ -262,8 +255,7 @@
               "RelativeToolTip": "Game\\GameManager.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:49:58.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:49:58.87Z"
             },
             {
               "$type": "Document",
@@ -275,8 +267,7 @@
               "RelativeToolTip": "Game\\AudioManager.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:46:45.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:46:45.724Z"
             },
             {
               "$type": "Document",
@@ -288,8 +279,7 @@
               "RelativeToolTip": "Game\\BoxCollider2D.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T19:57:46.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T19:57:46.419Z"
             },
             {
               "$type": "Document",
@@ -301,12 +291,11 @@
               "RelativeToolTip": "Game\\Animation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T17:58:12.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T17:58:12.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Player.cs",
               "RelativeDocumentMoniker": "Game\\Player.cs",
@@ -314,12 +303,11 @@
               "RelativeToolTip": "Game\\Player.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAL4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:13:30.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T06:13:30.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "DeltaTime.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\DeltaTime.cs",
               "RelativeDocumentMoniker": "Game\\DeltaTime.cs",
@@ -332,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Game.cs",
               "RelativeDocumentMoniker": "Game\\Game.cs",
@@ -340,12 +328,11 @@
               "RelativeToolTip": "Game\\Game.cs",
               "ViewState": "AQIAAKsAAAAAAAAAAAAkwMUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T19:35:39.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T19:35:39.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Vector2.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Vector2.cs",
               "RelativeDocumentMoniker": "Game\\Vector2.cs",
@@ -353,12 +340,11 @@
               "RelativeToolTip": "Game\\Vector2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:09:23.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T05:09:23.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\ProyectoBase\\ProyectoBase\\Game\\Program.cs",
               "RelativeDocumentMoniker": "Game\\Program.cs",
@@ -366,8 +352,7 @@
               "RelativeToolTip": "Game\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T20:45:13.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T20:45:13.904Z"
             }
           ]
         }
